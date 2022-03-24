@@ -24,6 +24,10 @@ brew install --cask bettertouchtool
 brew install --cask sourcetree
 brew install --cask notion
 
+# Brew install
+brew install zsh-autosuggestions
+brew install zsh-syntax-highlighting
+
 # Git
 git config --global user.name "samslow"
 git config --global user.email "samslow@tossinvest.com"
