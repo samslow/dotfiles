@@ -16,11 +16,11 @@ brew install --cask iterm2
 brew install --cask visual-studio-code
 brew install --cask google-chrome
 brew install --cask clipy
-brew install --cask postman
 brew install --cask macs-fan-control
 brew install --cask bettertouchtool
-brew install --cask sourcetree
+brew install --cask fork
 brew install --cask notion
+brew install --cask raycast
 
 # Brew install
 brew install zsh-autosuggestions
