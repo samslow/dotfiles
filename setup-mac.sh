@@ -15,7 +15,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 brew install --cask iterm2
 brew install --cask visual-studio-code
 brew install --cask google-chrome
-brew install --cask clipy
+brew install --cask cleanshot
 brew install --cask macs-fan-control
 brew install --cask bettertouchtool
 brew install --cask fork
