@@ -3,6 +3,7 @@
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/samslow/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
+brew install node
 brew install yarn
 brew install gh
 brew install pure
