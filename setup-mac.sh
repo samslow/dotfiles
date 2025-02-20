@@ -23,9 +23,9 @@ brew install --cask fork
 brew install --cask notion
 brew install --cask raycast
 
-# Brew install
-brew install zsh-autosuggestions
-brew install zsh-syntax-highlighting
+# zsh plugin
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlightingecho "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
 
 # Git
 git config --global user.name "samslow"
