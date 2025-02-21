@@ -3,7 +3,6 @@
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/samslow/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
-brew install node
 brew install yarn
 brew install gh
 brew install pure
@@ -22,6 +21,7 @@ brew install --cask bettertouchtool
 brew install --cask fork
 brew install --cask notion
 brew install --cask raycast
+brew install --cask cursor
 
 # zsh plugin
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
