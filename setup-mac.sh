@@ -28,4 +28,4 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 
 # Git
 git config --global user.name "samslow"
-git config --global user.email "samslow@nextsecurities.com"
+git config --global user.email "shsdf302@gmail.com"
