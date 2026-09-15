@@ -1,0 +1,15 @@
+[user]
+	name = samslow
+	email = samslow@nextsecurities.com
+[gitbutler]
+	gitbutlerCommitter = 0
+[init]
+	defaultBranch = main
+[credential "https://github.com"]
+	helper =
+	helper = !/opt/homebrew/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper =
+	helper = !/opt/homebrew/bin/gh auth git-credential
+[url "https://github.com/"]
+	insteadOf = git@github.com:

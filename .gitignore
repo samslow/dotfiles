@@ -1,0 +1,5 @@
+.DS_Store
+
+# 비밀값·머신별 설정
+*.local
+.env*

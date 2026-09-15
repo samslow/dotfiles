@@ -1,0 +1,7 @@
+# ~/.zshrc.local — 머신별 설정 & 비밀값 (git 에 올라가지 않음)
+# install.sh 가 이 파일을 ~/.zshrc.local 로 복사합니다. 값을 채워 넣으세요.
+
+# slack
+export SLACK_USER_TOKEN=""
+export SLACK_BOT_TOKEN=""
+export SLACK_FRONTEND_CHANNEL=""
